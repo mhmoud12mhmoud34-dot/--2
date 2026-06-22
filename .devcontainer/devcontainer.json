@@ -1,0 +1,11 @@
+https://api.githubcopilot.com/mcp/{{
+  "servers": {
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}you
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
